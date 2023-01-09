@@ -1,4 +1,5 @@
 ## Kelompok 6 - SIREKRUTMEN
+SIREKRUTMEN is a web-based human resources enterprise system to manage end-to-end recruitment process. This project has been developed for Final Group Assignment of Architecture and Programming of ERP.
 
 **Anggota Kelompok:**
 * Muhamad Rian Alpajirin - 1806191502
